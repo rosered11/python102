@@ -1,0 +1,7 @@
+project102/__pycache__/*
+tweet/__pycache__/*
+tweet/migrations/__pycache__
+.vscode/settings.json
+tutorial/quickstart/__pycache__
+tutorial/__pycache__
+db.sqlite*

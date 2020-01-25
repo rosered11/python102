@@ -1,0 +1,1 @@
+export('SECRET_KEY', '%5l$psqo^pd3#$chzs9l_y6$j3otm41dr*f&sxcquay7^c2oh#')
